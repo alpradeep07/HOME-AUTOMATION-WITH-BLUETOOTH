@@ -1,7 +1,16 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/80714882/234116124-5bbd7e92-5432-42f2-bb0e-574ed005aee8.png" width="75%" height="75%">
-</p>
+NAME : AAKINA LAKSHMI PRADEEP
 
+COMPANY : CODTECH IT SOLUTIONS
+
+INTERN ID : CT06WR44
+
+DOMAIN : EMBEDDED SYSTEMS
+
+DURATION : MARCH 30th, 2025 to MAY 15th, 2025 (6 WEEKS)
+
+MENTOR : NEELA SANTHOSH
+
+OVERVIEW : HOME AUTOMATION WITH BLUETOOTH 
 
 
 Home automation system developed on ESP32 microcontroller using freeRTOS with smart features. The entire system is controlled wirelessly via Bluetooth with a dedicated Android app.
