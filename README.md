@@ -13,8 +13,6 @@ Home automation system developed on ESP32 microcontroller using freeRTOS with sm
 	<img src="https://user-images.githubusercontent.com/80714882/234113165-50b23e8c-def4-42bf-a306-8ba56830c085.jpg" width="75%" height="75%">
 </p>
 
-## Recognition
-- Showcased on **Hackaday** - [Tiny Microcontroller Uses Real-Time Operating System](https://hackaday.com/2023/05/10/tiny-microcontroller-uses-real-time-operating-system/)
 
 ## About 'Smart Home Automation'
 
@@ -187,5 +185,4 @@ The fan/bulb is operated in 3 modes using relays,
 	<img src="https://user-images.githubusercontent.com/80714882/234115221-09de22eb-a5c0-47e3-819a-6b6720899b08.png" width="80%" height="80%">
 </p> 
 
-## Creator
 
