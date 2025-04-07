@@ -3,13 +3,7 @@
 </p>
 
 
-<p align="center">
-   <img src="https://img.shields.io/badge/ESPRESSIF-ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" >
-   <img src="https://img.shields.io/badge/FreeRTOS-4bbb4f?style=for-the-badge">
-   <img src="https://img.shields.io/badge/LICENSE-MIT-green?style=for-the-badge" >
-</p>
 
-<p align="center">
 Home automation system developed on ESP32 microcontroller using freeRTOS with smart features. The entire system is controlled wirelessly via Bluetooth with a dedicated Android app.
 </p>
 
@@ -31,15 +25,6 @@ When we think of home automation we generally visualize switching on/off some bu
 - To achieve true home automation Real Time Operating System (RTOS) is integrated in the system which can perform multiple things simultaneously.
 - The system is smart enough to automatically trigger actions based on certain events happening in real time.
 
-## Demo
-
-#### Complete Version
-
-- YouTube - [youtu.be/aT6Lj6hBVUk](https://youtu.be/aT6Lj6hBVUk)
-
-#### Short Version
-
-- Reddit - [reddit.com/smart_home_automation](https://www.reddit.com/r/homeautomation/comments/13aod3a/built_a_complete_smart_home_automation_system/)
 
 ## Features
 
